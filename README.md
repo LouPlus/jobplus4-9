@@ -9,4 +9,4 @@
 
 [闲言](http://github.com/liufei0714)
 
-[必然](http://gitbuh.com/zcyd25)
+[必然](http://github.com/zcyd25)
