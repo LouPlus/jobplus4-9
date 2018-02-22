@@ -1,0 +1,11 @@
+{%extends "base.html"%}
+
+{%block title%}FrontPage{%endblock%}
+
+{%block body%}
+    {% for user in users %}
+        <h1>{{ user.id }} - {{ user.username }}</h1>
+    {% endfor %}
+{%endblock%}
+
+
