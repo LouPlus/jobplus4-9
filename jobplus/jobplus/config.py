@@ -1,7 +1,7 @@
 class BaseConfig(object):
     SECRET_KEY = 'very secret key'
     INDEX_PER_PAGE = 9
-    ADMIN_PER_PAGE = 15
+    ADMIN_PER_PAGE = 18
 
 class DevelopmentConfig(BaseConfig):
     DEBUG = True
